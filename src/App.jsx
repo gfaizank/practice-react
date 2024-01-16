@@ -5,9 +5,11 @@ import Trixo from "./Trixo";
 import CustomModal from "./CustomModal";
 import LoginButton from "./LoginButton";
 import PasswordGenerator from "./PasswordGenerator";
+import TailwindEx from "./TailwindEx";
+import Blank from "./blank";
 function App() {
   return (
-    <PasswordGenerator />
+   <Blank />
 
   );
 }
